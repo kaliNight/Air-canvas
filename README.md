@@ -1,2 +1,2 @@
 # Air-canvas
-This is a like a ms paint but in air which will help you to teach the student online without the pad.
+An application to teach the student in online class without pentab, just by using camera as board and finger tip as pen.
